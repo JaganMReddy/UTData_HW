@@ -1,3 +1,3 @@
 # UTData_HW
 Home Work
-test
+This will have the home work uploads. The urls will be added to the boot camp.
